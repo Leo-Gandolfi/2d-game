@@ -1,5 +1,5 @@
 Jogo em 2D com Python e Pygame
-Descrição
+
 Este é um jogo em 2D desenvolvido com Python e Pygame. Ele utiliza uma estrutura orientada a objetos para que cada personagem tenha seus próprios atributos e comportamentos. Atualmente, o jogo ocorre em uma única tela, onde dois inimigos patrulham pequenas áreas.
 
 ![Captura de tela 2025-01-24 155544](https://github.com/user-attachments/assets/086e417e-bb67-41e4-8553-ccd698b97276)
